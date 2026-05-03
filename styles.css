@@ -1,0 +1,42 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #B2BEB5;
+}
+
+
+ul li{
+    list-style: none;
+    
+}
+li{
+    padding-bottom: 15px;
+}
+.main li{
+    padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    padding:10px;
+    background-color: blanchedalmond;
+    color:black;
+}
+
+img{
+    width:300px;
+    border-radius: 20px;
+    margin-top:30px;
+}
+
+.main li:first-of-type{
+    padding-top:30px;
+}
+
+a[href="../index.html"]{
+    margin-top:10px;
+    display: inline-block;
+}
+
+hr{
+    margin-top:-20px
+}
